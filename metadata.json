@@ -1,0 +1,6 @@
+{
+  "name": "CareTrack | Care Starts Here",
+  "description": "Healthcare Appointment & Medicine Reminder App with a strictly healthcare-only AI Health Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
